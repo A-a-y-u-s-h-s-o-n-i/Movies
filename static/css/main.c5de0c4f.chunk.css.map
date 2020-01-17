@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,SAAU,CACV,QAAS,CACT,iCACJ,CAEA,WACI,cACJ,CAEA,QACI,kBACJ","file":"main.c5de0c4f.chunk.css","sourcesContent":["body{\r\n    padding: 0;\r\n    margin: 0;\r\n    font-family: \"Montserrat\",sans-serif;\r\n}\r\n\r\n.clickable {\r\n    cursor: pointer;\r\n}\r\n\r\n.navbar{\r\n    margin-bottom: 30px;\r\n}\r\n"]}
