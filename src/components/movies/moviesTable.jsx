@@ -29,7 +29,7 @@ class MoviesTable extends Component{
                 </button>
             )
         }
-    ];
+    ]
 
     render() {
         const {movies,sortColumn,onSort} = this.props;
