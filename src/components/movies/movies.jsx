@@ -111,7 +111,7 @@ class Movies extends Component{
                         New Movies
                     </Link>
 
-                    <SearchBox value={searchQuery} onChange={this.handleSearch}/>;
+                    <SearchBox value={searchQuery} onChange={this.handleSearch}/>
 
                     <p
                         className="text-black"
